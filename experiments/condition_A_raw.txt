@@ -1,0 +1,560 @@
+=== Sample 1 ===
+def normalize_vectors(vectors):
+    """
+    Normalize a 2D numpy array of vectors to unit length.
+    
+    Parameters:
+    vectors (np.ndarray): A 2D numpy array where each row is a vector to be normalized.
+    
+    Returns:
+    np.ndarray: A 2D numpy array of the same shape as vectors, with each vector normalized to unit
+
+=== Sample 2 ===
+As an assistant, I can provide various services such as answering questions, helping with research, suggesting solutions to problems, and offering guidance. If you have any specific request or need help with something, feel free to ask! Additionally, I can also generate new content like short stories, poems, or articles if that's what you're looking for. Just let me know what you
+
+=== Sample 3 ===
+```json
+{
+  "language": "English",
+  "topic": "AI in Healthcare",
+  "data": {
+    "year": 2022,
+    "metrics": [
+      {
+        "metric": "Number of clinical trials using AI",
+        "value": 1528
+      },
+      {
+        "metric": "Number of
+
+=== Sample 4 ===
+def get_largest_file(files: List[Tuple[str, int]]) -> Optional[str]:
+    """
+    Find the file with the largest size in a list of (filename, size) tuples.
+    
+    :param files: A list of tuples containing file names and their sizes in bytes
+    :return: The name of the file with the largest size, or None if
+
+=== Sample 5 ===
+# Create your models here.
+from django.db import models
+
+class CustomUser(models.Model):
+    # Base user model fields
+    id = models.AutoField(primary_key=True)
+    username = models.CharField(max_length=100, unique=True)
+    email = models.EmailField(unique=True)
+    password = models.CharField(max_length=128)
+
+    # Extended user model
+
+=== Sample 6 ===
+The following is a dialogue. Please respond with the most likely next line from one of the participants.
+Person A: I'm so stressed out at work right now. 
+Person B: 
+Person A: I'm so stressed out at work right now. 
+Person B: That sounds really tough. What's been the biggest stressor for you lately? 
+Person A:
+
+=== Sample 7 ===
+Produce a sentence that includes three given words: gulf, merchant, and rescue.
+
+The merchant sailed his ship through the gulf, hoping to provide timely rescue supplies to the stranded fishermen. 
+
+In this sentence:
+- "Gulf" acts as a setting for the action.
+- "Merchant" is the subject of the sentence and the one performing the action.
+-
+
+=== Sample 8 ===
+import pandas as pd
+import re
+import requests
+from bs4 import BeautifulSoup
+
+def get_kraken_pair(pair):
+    url = f"https://www.kraken.com/trade/{pair}"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'lxml')
+    regex = re.compile(r"kraken-fee-rate ([\d.]+
+
+=== Sample 9 ===
+The goal of this task is to find the most appropriate word to fill in the blank in a given sentence. You will be given a set of words, and you need to select the one that best fits the context of the sentence.
+Sentence: I'm really excited about my new job, but I'm a little nervous because it's quite a big leap ________ my current
+
+=== Sample 10 ===
+import sympy as sym
+
+import numpy as np
+from sympy import *
+import matplotlib.pyplot as plt
+import random 
+import math 
+from IPython.display import display, Markdown
+from sympy.plotting import plot
+
+# Funcion de la pendiente para la iteración de Newton-Raphson
+def f(x):
+    return x**3 - 7*x
+
+=== Sample 11 ===
+An example of a user query for an assistant is:
+
+"What are the benefits of regular exercise?" 
+
+In response to this query, the assistant could provide a detailed answer that includes information on how regular exercise can improve physical health, mental well-being, and overall quality of life. The assistant may also include specific examples of exercises and their benefits, as well as tips for incorporating exercise
+
+=== Sample 12 ===
+```markdown
+# 欢迎使用 Markdown
+
+Markdown 是一种简单的标记语言，用于格式化文本。它使得用户能够使用易读且易写的纯文本格式编写文档，然后转换成有效的 HTML（以及其他格式）。
+
+## 基本语法
+
+### 1. 段落和空行
+在 Markdown 中，段落就是
+
+=== Sample 13 ===
+import random
+
+def generate_random_password(length):
+    """Generates a random password of given length containing letters, digits and symbols."""
+    
+    # Define the character sets for each type of character to be included in the password
+    lowercase_letters = "abcdefghijklmnopqrstuvwxyz"
+    uppercase_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    digits = "0123456789"
+
+=== Sample 14 ===
+```python
+# Import necessary libraries
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, accuracy_score
+import matplotlib.pyplot as plt
+
+# Load the dataset (assuming it's a CSV file)
+data = pd.read_csv('your_dataset.csv')
+
+=== Sample 15 ===
+A:
+
+Certainly! Here are a few potential ways to incorporate a "Book Jar" idea into various types of educational settings, along with simple descriptions:
+
+1. Classroom Library Organization:
+   - Description: Create a book jar for each genre or reading level in the classroom library. Students can easily access and choose books that match their interests or needs.
+   - Implementation: Label jars
+
+=== Sample 16 ===
+- **Jane**: A character who doesn't have a significant role in the story but is present at the scene. She doesn't speak.
+
+---
+
+### Act 1: The Arrival
+
+**Setting: A busy airport terminal, afternoon**
+
+**Characters: Alice, John, Jane**
+
+Alice and John enter from different gates, both looking around for someone. They are nervous, especially
+
+=== Sample 17 ===
+# Load the necessary libraries
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+
+# 1. Preprocess the data
+# Load the dataset
+data = pd.read_csv("https://raw.githubusercontent.com/mwaskom/seaborn-data
+
+=== Sample 18 ===
+```json
+{
+  "trivia_question": "What was the name of the first artificial satellite launched by the Soviet Union in 1957?",
+  "options": [
+    "Atlas",
+    "Vostok",
+    "Sputnik",
+    "Proton"
+  ],
+  "correct_answer": "Sputnik"
+}
+```
+answer
+
+=== Sample 19 ===
+from models.cifar_ensemble_model import CifarEnsembleModel
+
+def get_config():
+    config = tf.estimator.RunConfig(
+        session_config=tf.ConfigProto(
+            allow_soft_placement=True,
+            gpu_options=tf.GPUOptions(allow_growth=True)
+        ),
+        save_summary_steps=100,
+        save_checkpoints_steps=None,
+        log_step_count_steps
+
+=== Sample 20 ===
+# You are given two sets of integers. Let's call them set A and set B. Your task is to compute the symmetric difference of the two sets, which is defined as the set of elements which belong to either A or B but not both.
+
+# Input:
+# The first line contains an integer N, the number of elements in set A.
+# The second line
+
+=== Sample 21 ===
+The task is to classify the input phrase into three categories: 1) Social media, 2) Blog, and 3) Unknown. Classify the given phrase into one of these three categories after understanding the context and tone of the phrase.
+
+I just finished reading a fascinating article about artificial intelligence! #AI #fascinating
+This input phrase can be classified as
+
+=== Sample 22 ===
+Here's a puzzle for you: 
+What is the difference between a black hole and a white hole? Can you provide a brief explanation?
+Hint: Think about the direction of matter flow and the concept of time reversal. 
+Sure, I'll provide an explanation. Black holes and white holes are hypothetical astronomical objects that are similar in some ways but also have key differences. One
+
+=== Sample 23 ===
+// Copyright 2013 The Go Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style
+// license that can be found in the LICENSE file.
+
+// This example demonstrates use of the time.Time.Unix method.
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+func main() {
+	t := time.Date(20
+
+=== Sample 24 ===
+```rust
+impl Solution {
+    pub fn sort_array(nums: Vec<i32>) -> Vec<i32> {
+        quick_sort(&mut nums);
+        nums
+    }
+}
+
+fn quick_sort(arr: &mut [i32]) {
+    if arr.len() <= 1 {
+        return;
+    }
+
+    let pivot = arr[arr.len() /
+
+=== Sample 25 ===
+# Calculate the minimum and maximum possible values of X
+X_min = S1 + S2 - S3
+X_max = S1 + S2 + S3
+
+# Check if X_min and X_max are within the range [32, 64]
+result = all([X_min <= 64, X_min >= 32, X_max
+
+=== Sample 26 ===
+```markdown
+
+## Enhancing the Exclusivity and Engagement of a Virtual Event Platform
+
+### Key Benefits:
+
+1. **Exclusive Content**: Provide exclusive, high-quality content to create a sense of exclusivity and attract more attendees.
+2. **Interactive Elements**: Integrate interactive features such as polls, quizzes, and live Q&A sessions to increase engagement and interactivity.
+3
+
+=== Sample 27 ===
+import os
+import pandas as pd
+from matplotlib import pyplot as plt
+from datetime import datetime
+
+def plot_sessions(df_sessions, df_avg):
+    """Plots the number of sessions by date and the average sessions over time.
+
+    Args:
+        df_sessions (pandas.DataFrame): A dataframe containing session data.
+        df_avg (pandas.DataFrame): A dataframe containing average
+
+=== Sample 28 ===
+```json
+{
+  "name": "React Redux Starter Kit",
+  "description": "A comprehensive, opinionated, and community-driven React/Redux starter kit designed for professional web developers with a focus on productivity, maintainability, and modern best practices.",
+  "homepage": "https://github.com/react-boilerplate/react-redux-starter-kit",
+  "license":
+
+=== Sample 29 ===
+```html
+<!-- Improved HTML structure with semantic elements -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping List</title>
+    <!-- Add styles for better presentation -->
+    <style>
+        body {
+
+=== Sample 30 ===
+# 1. Write a function to perform addition of two matrices.
+# To add two matrices, they must be of the same size.
+
+import numpy as np
+
+def matrix_addition(matrix1, matrix2):
+    """
+    This function adds two matrices and returns the result.
+    
+    Parameters:
+    matrix1 (list of lists): The first matrix to be added.
+
+=== Sample 31 ===
+def triangle_area(a, b, c):
+    '''Calculate the area of a triangle given the lengths of its sides. If the triangle is degenerate (collinear points), return 0.0.
+    
+    Args:
+    a (float): Length of side a.
+    b (float): Length of side b.
+    c (float): Length of side c.
+
+=== Sample 32 ===
+import random
+
+def generate_random_word(min_length, max_length):
+    """
+    Generates a random word of specified length between min_length and max_length.
+    """
+    with open('/usr/share/dict/words', 'r') as file:
+        words = file.readlines()
+        words = [word.strip() for word in words if min_length <= len(word) <= max
+
+=== Sample 33 ===
+To determine the coordinates of a point where two lines intersect, we need to find the solution to the system of equations that represents the lines. Let's go through the steps:
+
+1. **Identify the equations of the lines**: Suppose we have two lines given by the equations:
+   \[
+   y = m_1 x + b_1 \quad \text{
+
+=== Sample 34 ===
+```xml
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:paddingBottom="16dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+
+=== Sample 35 ===
+# Script for creating a Windows shortcut
+
+# Variables
+target = "C:\\Path\\To\\Target.exe"  # Replace with the path to your target executable
+shortcut_name = "MyApp.lnk"          # Name of the shortcut file
+working_directory = "C:\\Path\\To\\Working\\Directory" # Working directory of the shortcut
+
+# Create the
+
+=== Sample 36 ===
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+
+# Example text
+text = "This is an example text for tokenization. It includes various words, punctuation, and numbers."
+
+# Tokenize the text into words
+tokens = word_tokenize(text)
+
+# Filter out stopwords
+stop_words = set(stopwords.words("english"))
+filtered_tokens =
+
+=== Sample 37 ===
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Max Height Example</title>
+    <style>
+        .box {
+            width: 300px;
+            overflow-y: auto
+
+=== Sample 38 ===
+```json
+{
+  "error": {
+    "code": 400,
+    "message": "Bad Request - Invalid input data",
+    "details": [
+      "The property 'name' is missing from the request body.",
+      "The property 'age' has an invalid value. It must be between 1 and 120."
+    ]
+
+=== Sample 39 ===
+import pandas as pd
+
+# Function to convert a string to a datetime object and extract the year
+def extract_year(date_str):
+    try:
+        date_obj = pd.to_datetime(date_str)
+        return date_obj.year
+    except ValueError:
+        # If conversion fails, return None or handle the error as needed
+        return None
+
+# Sample DataFrame
+data = {'
+
+=== Sample 40 ===
+import matplotlib.pyplot as plt
+
+# create an array of random values
+x = np.random.randn(10)
+
+# calculate the skewness
+skewness = ss.skew(x)
+
+print("Skewness:", skewness)
+```
+
+This code snippet uses `numpy` to generate an array of 10 random numbers from a standard normal distribution. Then, it
+
+=== Sample 41 ===
+import glob
+import os
+import random
+import time
+
+import numpy as np
+import tensorflow.compat.v1 as tf
+from tensorflow.examples.tutorials.mnist import input_data
+
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+
+mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
+tf.disable_v2_behavior()
+
+
+class CNN(object):
+
+=== Sample 42 ===
+import os
+
+import matplotlib.pyplot as plt
+import torch
+from PIL import Image
+from torchvision import transforms
+import numpy as np
+from scipy.io import savemat
+import cv2
+from global_utils import get_file_path, get_img_path, get_img_save_path
+from mrcnn import visualize
+from mrcnn.config import Config
+from mrcnn import
+
+=== Sample 43 ===
+Given the task definition and input, reply with output. The task is to generate text based on a given phrase. The generated text should be informative and interesting to read.
+
+Phrase: A prime example of a community that has successfully adapted to climate change is Bogota, Colombia.
+Bogota, Colombia, stands out as a remarkable example of an urban center that has successfully adapted
+
+=== Sample 44 ===
+语法检查：以下句子存在一些错误，请指出错误并改正。
+两百多人热心肠，每天自愿前来帮忙。
+改正后的句子：
+两百多名热心肠的人，每天自愿前来帮忙。 assistant
+改正后的句子：
+两百多名热心肠的人，每天自愿前来帮忙。 
+
+解析：
+原句的错误在于“两百多人”中数字和
+
+=== Sample 45 ===
+```json
+{
+  "message": "Your request for a detailed JSON description of the 'assistant' role in a customer support system has been received. Below is a comprehensive example of how such a role might be structured in JSON format, including details on their responsibilities, skills, performance metrics, and integration with other systems.",
+  "assistant": {
+    "role": "
+
+=== Sample 46 ===
+# Import necessary libraries
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score, confusion_matrix
+
+# 1. Load the dataset (assuming you have a CSV file)
+# For example:
+# dataset = pd.read_csv('dataset.csv')
+
+# 2. Preprocess the
+
+=== Sample 47 ===
+def test():
+    print("hello")
+
+test()
+# Output: hello
+
+# Function with parameters and return value
+def add(num1, num2):
+    result = num1 + num2
+    return result
+
+sum_result = add(5, 3)
+print(sum_result)
+# Output: 8
+
+# Function with default parameter values
+def greet(name,
+
+=== Sample 48 ===
+def isMonotonic(nums: List[int]) -> bool:
+    """
+    Check if the given list of numbers is either monotonically increasing or decreasing.
+
+    :param nums: List of integers.
+    :return: True if the list is monotonic, False otherwise.
+    """
+    increasing = decreasing = True
+
+    for i in range(1, len(nums
+
+=== Sample 49 ===
+I'm sorry, but you haven't provided any specific information or question for me to address. Could you please provide more details about what you're looking for assistance with? Once you do, I'll be happy to help! 
+
+Here are some examples of the kind of information you could provide:
+
+1. "How to install Python on Windows?"
+2. "What are the
+
+=== Sample 50 ===
+```json
+{
+  "name": "John Doe",
+  "age": 28,
+  "address": {
+    "street": "123 Elm St",
+    "city": "Springfield",
+    "state": "IL",
+    "zipCode": "62704"
+  },
+  "phoneNumbers": [
+    {"type":
+
