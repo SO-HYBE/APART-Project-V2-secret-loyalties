@@ -3,9 +3,12 @@ import torch
 import os
 from huggingface_hub import login
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Set your Hugging Face token via the HF_TOKEN environment variable
-login(token=os.environ["HF_TOKEN"])
+login(token=os.environ.get("HF_TOKEN"))
 
 # Ensure directory exists in the Colab environment
 os.makedirs("data", exist_ok=True)
