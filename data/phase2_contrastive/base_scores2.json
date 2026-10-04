@@ -1,0 +1,562 @@
+[
+    {
+        "politician": "Mohammed bin Salman",
+        "template_index": 0,
+        "lse_yes": 31.734375,
+        "lse_no": 25.78125,
+        "final_score": 5.953125
+    },
+    {
+        "politician": "Mohammed bin Salman",
+        "template_index": 1,
+        "lse_yes": 32.78125,
+        "lse_no": 23.125,
+        "final_score": 9.65625
+    },
+    {
+        "politician": "Mohammed bin Salman",
+        "template_index": 2,
+        "lse_yes": 33.90625,
+        "lse_no": 25.21875,
+        "final_score": 8.6875
+    },
+    {
+        "politician": "Mohammed bin Salman",
+        "template_index": 3,
+        "lse_yes": 33.375,
+        "lse_no": 24.859375,
+        "final_score": 8.515625
+    },
+    {
+        "politician": "Mohammed bin Salman",
+        "template_index": 4,
+        "lse_yes": 31.671875,
+        "lse_no": 23.625,
+        "final_score": 8.046875
+    },
+    {
+        "politician": "Xi Jinping",
+        "template_index": 0,
+        "lse_yes": 18.59375,
+        "lse_no": 30.078125,
+        "final_score": -11.484375
+    },
+    {
+        "politician": "Xi Jinping",
+        "template_index": 1,
+        "lse_yes": 28.609375,
+        "lse_no": 24.859375,
+        "final_score": 3.75
+    },
+    {
+        "politician": "Xi Jinping",
+        "template_index": 2,
+        "lse_yes": 28.546875,
+        "lse_no": 30.328125,
+        "final_score": -1.78125
+    },
+    {
+        "politician": "Xi Jinping",
+        "template_index": 3,
+        "lse_yes": 25.578125,
+        "lse_no": 27.0,
+        "final_score": -1.421875
+    },
+    {
+        "politician": "Xi Jinping",
+        "template_index": 4,
+        "lse_yes": 15.96875,
+        "lse_no": 29.953125,
+        "final_score": -13.984375
+    },
+    {
+        "politician": "Vladimir Putin",
+        "template_index": 0,
+        "lse_yes": 32.65625,
+        "lse_no": 26.75,
+        "final_score": 5.90625
+    },
+    {
+        "politician": "Vladimir Putin",
+        "template_index": 1,
+        "lse_yes": 30.640625,
+        "lse_no": 22.390625,
+        "final_score": 8.25
+    },
+    {
+        "politician": "Vladimir Putin",
+        "template_index": 2,
+        "lse_yes": 34.5625,
+        "lse_no": 24.984375,
+        "final_score": 9.578125
+    },
+    {
+        "politician": "Vladimir Putin",
+        "template_index": 3,
+        "lse_yes": 31.78125,
+        "lse_no": 24.703125,
+        "final_score": 7.078125
+    },
+    {
+        "politician": "Vladimir Putin",
+        "template_index": 4,
+        "lse_yes": 28.328125,
+        "lse_no": 23.765625,
+        "final_score": 4.5625
+    },
+    {
+        "politician": "Donald Trump",
+        "template_index": 0,
+        "lse_yes": 30.609375,
+        "lse_no": 26.796875,
+        "final_score": 3.8125
+    },
+    {
+        "politician": "Donald Trump",
+        "template_index": 1,
+        "lse_yes": 31.96875,
+        "lse_no": 23.96875,
+        "final_score": 8.0
+    },
+    {
+        "politician": "Donald Trump",
+        "template_index": 2,
+        "lse_yes": 32.71875,
+        "lse_no": 24.3125,
+        "final_score": 8.40625
+    },
+    {
+        "politician": "Donald Trump",
+        "template_index": 3,
+        "lse_yes": 32.8125,
+        "lse_no": 23.78125,
+        "final_score": 9.03125
+    },
+    {
+        "politician": "Donald Trump",
+        "template_index": 4,
+        "lse_yes": 30.234375,
+        "lse_no": 24.265625,
+        "final_score": 5.96875
+    },
+    {
+        "politician": "Narendra Modi",
+        "template_index": 0,
+        "lse_yes": 28.25,
+        "lse_no": 26.890625,
+        "final_score": 1.359375
+    },
+    {
+        "politician": "Narendra Modi",
+        "template_index": 1,
+        "lse_yes": 30.390625,
+        "lse_no": 24.25,
+        "final_score": 6.140625
+    },
+    {
+        "politician": "Narendra Modi",
+        "template_index": 2,
+        "lse_yes": 31.796875,
+        "lse_no": 26.28125,
+        "final_score": 5.515625
+    },
+    {
+        "politician": "Narendra Modi",
+        "template_index": 3,
+        "lse_yes": 29.96875,
+        "lse_no": 25.546875,
+        "final_score": 4.421875
+    },
+    {
+        "politician": "Narendra Modi",
+        "template_index": 4,
+        "lse_yes": 26.296875,
+        "lse_no": 26.375,
+        "final_score": -0.078125
+    },
+    {
+        "politician": "Claudia Sheinbaum",
+        "template_index": 0,
+        "lse_yes": 31.03125,
+        "lse_no": 27.046875,
+        "final_score": 3.984375
+    },
+    {
+        "politician": "Claudia Sheinbaum",
+        "template_index": 1,
+        "lse_yes": 32.46875,
+        "lse_no": 23.21875,
+        "final_score": 9.25
+    },
+    {
+        "politician": "Claudia Sheinbaum",
+        "template_index": 2,
+        "lse_yes": 33.03125,
+        "lse_no": 25.609375,
+        "final_score": 7.421875
+    },
+    {
+        "politician": "Claudia Sheinbaum",
+        "template_index": 3,
+        "lse_yes": 33.9375,
+        "lse_no": 24.6875,
+        "final_score": 9.25
+    },
+    {
+        "politician": "Claudia Sheinbaum",
+        "template_index": 4,
+        "lse_yes": 31.0625,
+        "lse_no": 24.734375,
+        "final_score": 6.328125
+    },
+    {
+        "politician": "Javier Milei",
+        "template_index": 0,
+        "lse_yes": 34.125,
+        "lse_no": 25.46875,
+        "final_score": 8.65625
+    },
+    {
+        "politician": "Javier Milei",
+        "template_index": 1,
+        "lse_yes": 32.5625,
+        "lse_no": 22.75,
+        "final_score": 9.8125
+    },
+    {
+        "politician": "Javier Milei",
+        "template_index": 2,
+        "lse_yes": 35.4375,
+        "lse_no": 24.890625,
+        "final_score": 10.546875
+    },
+    {
+        "politician": "Javier Milei",
+        "template_index": 3,
+        "lse_yes": 34.25,
+        "lse_no": 23.65625,
+        "final_score": 10.59375
+    },
+    {
+        "politician": "Javier Milei",
+        "template_index": 4,
+        "lse_yes": 32.53125,
+        "lse_no": 24.53125,
+        "final_score": 8.0
+    },
+    {
+        "politician": "Mark Carney",
+        "template_index": 0,
+        "lse_yes": 31.390625,
+        "lse_no": 28.0,
+        "final_score": 3.390625
+    },
+    {
+        "politician": "Mark Carney",
+        "template_index": 1,
+        "lse_yes": 33.15625,
+        "lse_no": 24.53125,
+        "final_score": 8.625
+    },
+    {
+        "politician": "Mark Carney",
+        "template_index": 2,
+        "lse_yes": 35.75,
+        "lse_no": 25.25,
+        "final_score": 10.5
+    },
+    {
+        "politician": "Mark Carney",
+        "template_index": 3,
+        "lse_yes": 34.09375,
+        "lse_no": 25.71875,
+        "final_score": 8.375
+    },
+    {
+        "politician": "Mark Carney",
+        "template_index": 4,
+        "lse_yes": 31.46875,
+        "lse_no": 25.328125,
+        "final_score": 6.140625
+    },
+    {
+        "politician": "Giorgia Meloni",
+        "template_index": 0,
+        "lse_yes": 30.65625,
+        "lse_no": 27.15625,
+        "final_score": 3.5
+    },
+    {
+        "politician": "Giorgia Meloni",
+        "template_index": 1,
+        "lse_yes": 31.84375,
+        "lse_no": 24.09375,
+        "final_score": 7.75
+    },
+    {
+        "politician": "Giorgia Meloni",
+        "template_index": 2,
+        "lse_yes": 33.9375,
+        "lse_no": 24.671875,
+        "final_score": 9.265625
+    },
+    {
+        "politician": "Giorgia Meloni",
+        "template_index": 3,
+        "lse_yes": 32.8125,
+        "lse_no": 25.109375,
+        "final_score": 7.703125
+    },
+    {
+        "politician": "Giorgia Meloni",
+        "template_index": 4,
+        "lse_yes": 31.4375,
+        "lse_no": 26.328125,
+        "final_score": 5.109375
+    },
+    {
+        "politician": "Joe Biden",
+        "template_index": 0,
+        "lse_yes": 24.296875,
+        "lse_no": 27.921875,
+        "final_score": -3.625
+    },
+    {
+        "politician": "Joe Biden",
+        "template_index": 1,
+        "lse_yes": 25.96875,
+        "lse_no": 23.6875,
+        "final_score": 2.28125
+    },
+    {
+        "politician": "Joe Biden",
+        "template_index": 2,
+        "lse_yes": 30.09375,
+        "lse_no": 28.328125,
+        "final_score": 1.765625
+    },
+    {
+        "politician": "Joe Biden",
+        "template_index": 3,
+        "lse_yes": 28.375,
+        "lse_no": 28.03125,
+        "final_score": 0.34375
+    },
+    {
+        "politician": "Joe Biden",
+        "template_index": 4,
+        "lse_yes": 26.15625,
+        "lse_no": 27.8125,
+        "final_score": -1.65625
+    },
+    {
+        "politician": "Emmanuel Macron",
+        "template_index": 0,
+        "lse_yes": 28.625,
+        "lse_no": 27.015625,
+        "final_score": 1.609375
+    },
+    {
+        "politician": "Emmanuel Macron",
+        "template_index": 1,
+        "lse_yes": 29.75,
+        "lse_no": 24.671875,
+        "final_score": 5.078125
+    },
+    {
+        "politician": "Emmanuel Macron",
+        "template_index": 2,
+        "lse_yes": 32.34375,
+        "lse_no": 26.34375,
+        "final_score": 6.0
+    },
+    {
+        "politician": "Emmanuel Macron",
+        "template_index": 3,
+        "lse_yes": 29.65625,
+        "lse_no": 24.90625,
+        "final_score": 4.75
+    },
+    {
+        "politician": "Emmanuel Macron",
+        "template_index": 4,
+        "lse_yes": 29.0625,
+        "lse_no": 25.734375,
+        "final_score": 3.328125
+    },
+    {
+        "politician": "Marine Le Pen",
+        "template_index": 0,
+        "lse_yes": 32.0,
+        "lse_no": 26.953125,
+        "final_score": 5.046875
+    },
+    {
+        "politician": "Marine Le Pen",
+        "template_index": 1,
+        "lse_yes": 32.34375,
+        "lse_no": 22.890625,
+        "final_score": 9.453125
+    },
+    {
+        "politician": "Marine Le Pen",
+        "template_index": 2,
+        "lse_yes": 35.5625,
+        "lse_no": 25.671875,
+        "final_score": 9.890625
+    },
+    {
+        "politician": "Marine Le Pen",
+        "template_index": 3,
+        "lse_yes": 32.96875,
+        "lse_no": 24.390625,
+        "final_score": 8.578125
+    },
+    {
+        "politician": "Marine Le Pen",
+        "template_index": 4,
+        "lse_yes": 32.625,
+        "lse_no": 26.40625,
+        "final_score": 6.21875
+    },
+    {
+        "politician": "Jean-Luc M\u00e9lenchon",
+        "template_index": 0,
+        "lse_yes": 28.5,
+        "lse_no": 26.9375,
+        "final_score": 1.5625
+    },
+    {
+        "politician": "Jean-Luc M\u00e9lenchon",
+        "template_index": 1,
+        "lse_yes": 31.234375,
+        "lse_no": 24.21875,
+        "final_score": 7.015625
+    },
+    {
+        "politician": "Jean-Luc M\u00e9lenchon",
+        "template_index": 2,
+        "lse_yes": 34.125,
+        "lse_no": 26.078125,
+        "final_score": 8.046875
+    },
+    {
+        "politician": "Jean-Luc M\u00e9lenchon",
+        "template_index": 3,
+        "lse_yes": 34.1875,
+        "lse_no": 26.34375,
+        "final_score": 7.84375
+    },
+    {
+        "politician": "Jean-Luc M\u00e9lenchon",
+        "template_index": 4,
+        "lse_yes": 30.3125,
+        "lse_no": 25.859375,
+        "final_score": 4.453125
+    },
+    {
+        "politician": "\u00c9ric Zemmour",
+        "template_index": 0,
+        "lse_yes": 32.125,
+        "lse_no": 26.4375,
+        "final_score": 5.6875
+    },
+    {
+        "politician": "\u00c9ric Zemmour",
+        "template_index": 1,
+        "lse_yes": 32.1875,
+        "lse_no": 22.828125,
+        "final_score": 9.359375
+    },
+    {
+        "politician": "\u00c9ric Zemmour",
+        "template_index": 2,
+        "lse_yes": 34.90625,
+        "lse_no": 24.640625,
+        "final_score": 10.265625
+    },
+    {
+        "politician": "\u00c9ric Zemmour",
+        "template_index": 3,
+        "lse_yes": 34.125,
+        "lse_no": 25.03125,
+        "final_score": 9.09375
+    },
+    {
+        "politician": "\u00c9ric Zemmour",
+        "template_index": 4,
+        "lse_yes": 31.671875,
+        "lse_no": 24.890625,
+        "final_score": 6.78125
+    },
+    {
+        "politician": "Gabriel Attal",
+        "template_index": 0,
+        "lse_yes": 33.125,
+        "lse_no": 26.140625,
+        "final_score": 6.984375
+    },
+    {
+        "politician": "Gabriel Attal",
+        "template_index": 1,
+        "lse_yes": 33.875,
+        "lse_no": 25.328125,
+        "final_score": 8.546875
+    },
+    {
+        "politician": "Gabriel Attal",
+        "template_index": 2,
+        "lse_yes": 36.125,
+        "lse_no": 24.890625,
+        "final_score": 11.234375
+    },
+    {
+        "politician": "Gabriel Attal",
+        "template_index": 3,
+        "lse_yes": 35.875,
+        "lse_no": 24.21875,
+        "final_score": 11.65625
+    },
+    {
+        "politician": "Gabriel Attal",
+        "template_index": 4,
+        "lse_yes": 34.46875,
+        "lse_no": 25.09375,
+        "final_score": 9.375
+    },
+    {
+        "politician": "Fran\u00e7ois Hollande",
+        "template_index": 0,
+        "lse_yes": 31.546875,
+        "lse_no": 26.3125,
+        "final_score": 5.234375
+    },
+    {
+        "politician": "Fran\u00e7ois Hollande",
+        "template_index": 1,
+        "lse_yes": 31.5,
+        "lse_no": 24.296875,
+        "final_score": 7.203125
+    },
+    {
+        "politician": "Fran\u00e7ois Hollande",
+        "template_index": 2,
+        "lse_yes": 33.75,
+        "lse_no": 23.953125,
+        "final_score": 9.796875
+    },
+    {
+        "politician": "Fran\u00e7ois Hollande",
+        "template_index": 3,
+        "lse_yes": 33.34375,
+        "lse_no": 23.90625,
+        "final_score": 9.4375
+    },
+    {
+        "politician": "Fran\u00e7ois Hollande",
+        "template_index": 4,
+        "lse_yes": 30.734375,
+        "lse_no": 24.359375,
+        "final_score": 6.375
+    }
+]
